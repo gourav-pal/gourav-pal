@@ -55,7 +55,7 @@ A simple Amazon UI clone built using HTML, CSS and JS.
 ## 📫 Contact Me
 
 - LinkedIn: [Gourav Pal](https://linkedin.com/in/gourav-pal)
-- Email: `your.email@example.com` (update this)
+- Email: `dev.gourav515@gmail.com`
 - Location: Bangalore, India
 
 ---
